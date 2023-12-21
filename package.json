@@ -4,7 +4,7 @@
   "version": "0.0.0",
   "description": "Fast use template",
   "keywords": [],
-  "repository": "https://github.com/inkdropapp/fast-template",
+  "repository": "https://github.com/CofCat456/inkdrop-fast-template",
   "license": "MIT",
   "engines": {
     "inkdrop": "^5.3.1"
