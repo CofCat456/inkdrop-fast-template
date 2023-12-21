@@ -2,7 +2,7 @@
   "name": "fast-template",
   "main": "./lib/fast-template",
   "version": "0.0.0",
-  "description": "A short description of your package",
+  "description": "Fast use template",
   "keywords": [],
   "repository": "https://github.com/inkdropapp/fast-template",
   "license": "MIT",
