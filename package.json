@@ -1,0 +1,13 @@
+{
+  "name": "fast-template",
+  "main": "./lib/fast-template",
+  "version": "0.0.0",
+  "description": "A short description of your package",
+  "keywords": [],
+  "repository": "https://github.com/inkdropapp/fast-template",
+  "license": "MIT",
+  "engines": {
+    "inkdrop": "^5.3.1"
+  },
+  "dependencies": {}
+}
