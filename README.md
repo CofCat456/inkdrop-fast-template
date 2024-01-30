@@ -18,9 +18,7 @@ ipm install inkdrop-fast-template
 > [!IMPORTANT]  
 Create templates under `_Templates` notebook.
 
-Note template can have content and metadata as [Yaml Front Matter](https://jekyllrb.com/docs/front-matter/).
-
-Support (Render with [LiquidJS](https://liquidjs.com/) and set it as new note's title )
+Support
 - `{{title}}`: Note Title
 - `{{date}}`: date(YYYY-MM-DD) with [dayjs](https://day.js.org/)
 - `{{time}}`: title(HH:mm) with [dayjs](https://day.js.org/)

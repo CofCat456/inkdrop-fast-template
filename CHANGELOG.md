@@ -9,3 +9,7 @@
 
 * Big Big Update !!!
 * Support {{title}}、{{date}}、{{time}}
+
+## 1.1.0 - 🐞 Bug Fixes
+
+* Remove title restrictions
