@@ -1,7 +1,7 @@
 {
   "name": "fast-template",
   "main": "./lib/fast-template",
-  "version": "1.2.0",
+  "version": "1.3.0",
   "description": "Fast use template",
   "keywords": [],
   "repository": "https://github.com/CofCat456/inkdrop-fast-template",
