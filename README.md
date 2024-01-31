@@ -14,7 +14,6 @@ ipm install inkdrop-fast-template
 
 ### Create Templates
 
-
 > [!IMPORTANT]  
 Create templates under `_Templates` notebook.
 
