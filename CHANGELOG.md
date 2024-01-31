@@ -13,3 +13,7 @@
 ## 1.1.0 - 🐞 Bug Fixes
 
 * Remove title restrictions
+
+## 1.1.0 - ⚡ Features
+
+* Remove content restrictions
