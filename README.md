@@ -42,9 +42,6 @@ You can Press `cmd+t` to select.
 
 ![Preview](https://i.imgur.com/dYVvx2a.gif)
 
-> [!TIP]  
-When you don't input any text, it automatically uses the current date as the title for the Note.
-
 ## Future Todo 
 
 | Description | Progress |
