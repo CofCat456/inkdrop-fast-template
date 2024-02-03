@@ -2,8 +2,8 @@
   "context-menu": {
     ".CodeMirror": [
       {
-        "label": "Toggle fast-template",
-        "command": "fast-template:toggle"
+        "label": "Open Fast Template",
+        "command": "fast-template:open"
       }
     ]
   },
@@ -12,11 +12,11 @@
       "label": "Plugins",
       "submenu": [
         {
-          "label": "fast-template",
+          "label": "Fast Template",
           "submenu": [
             {
-              "label": "Toggle",
-              "command": "fast-template:toggle"
+              "label": "Open",
+              "command": "fast-template:open"
             }
           ]
         }

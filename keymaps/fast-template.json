@@ -1,5 +1,5 @@
 {
   "body": {
-    "cmd-t": "fast-template:toggle"
+    "cmd-t": "fast-template:open"
   }
 }
