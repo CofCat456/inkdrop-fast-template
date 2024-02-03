@@ -1,8 +1,10 @@
 ## 0.1.0 - First Release
+
 * Every feature added
 * Every bug fixed
 
 ## 0.2.0 - 🐞 Bug Fixes
+
 * Fixed semantic-ui-react dependencies location
 
 ## 1.0.0 - ⚡ Features
@@ -14,11 +16,15 @@
 
 * Remove title restrictions
 
-## 1.1.0 - ⚡ Features
+## 1.2.0 - ⚡ Features
 
 * Remove content restrictions
 
+## 1.3.0 - 🐞 Bug Fixes
 
-## 1.1.0 - 🐞 Bug Fixes
+* Fix Metadata transform Bug
 
-* Remove title restrictions
+## 1.4.0 - ⚡ Features
+
+* Support change templates folder name
+* Change template use way

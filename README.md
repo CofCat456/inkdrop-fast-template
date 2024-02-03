@@ -17,11 +17,14 @@ ipm install inkdrop-fast-template
 > [!IMPORTANT]  
 Create templates under `_Templates` notebook.
 
-Support
+> You can custom the template folder name
+
+#### Support
 - `{{title}}`: Note Title
 - `{{date}}`: date(YYYY-MM-DD) with [dayjs](https://day.js.org/)
 - `{{time}}`: title(HH:mm) with [dayjs](https://day.js.org/)
 
+#### Example
 ```markdown
 ---
 title: {{title}}
@@ -37,7 +40,7 @@ Current Time is {{date}}:{{time}}
 
 You can Press `cmd+t` to select.
 
-![Preview](https://i.imgur.com/4HfHtmU.gif)
+![Preview](https://i.imgur.com/dYVvx2a.gif)
 
 > [!TIP]  
 When you don't input any text, it automatically uses the current date as the title for the Note.
