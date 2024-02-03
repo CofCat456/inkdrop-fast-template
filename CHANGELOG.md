@@ -24,7 +24,11 @@
 
 * Fix Metadata transform Bug
 
-## 1.4.0 - ⚡ Features
+## 2.0.0 - ⚡ Features
 
 * Support change templates folder name
 * Change template use way
+
+## 2.1.0 - 🐞 Bug Fixes
+
+* Remove unuse package
